@@ -8,3 +8,9 @@ Shield by shield
 Side by side
 We're marching into destiny
 -----------------------------
+
+	<head>
+		    <link href="css/fonts.css" rel="stylesheet">
+				<link href="css/style_1.css" rel="stylesheet">
+				<link href="css/media_1.css" rel="stylesheet">
+	</head>

@@ -12,4 +12,8 @@ We're marching into destiny
 
 XXXXXXXXXXXXXXXXX Create new branch b1
 	add some text:
+				<style>
+					html { height: 100% }
+					body { height: 100%;}
+				</style>	
 	
